@@ -54,6 +54,8 @@
       <text>云调用</text>
     </navigator>
   </view>
-
+<view style="font-size:17px;margin-top:20px">
+  文本文本<icon type="success" size="14" color="green"></icon>文本文本
+</view>
 
 </view>
